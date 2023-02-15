@@ -21,5 +21,11 @@
 - [Al Jazeera](https://www.aljazeera.com/)
 
 ## Annet
-
 - [Nordnorsk debatt](https://www.nordnorskdebatt.no/)
+
+## TECH
+- [TEK](https://www.tek.no/)
+- Itavisen (https://itavisen.no/)
+- [Digi](https://www.digi.no/)
+- [Computerworld](https://www.cw.no/)
+- [Kode24](https://www.kode24.no/)
