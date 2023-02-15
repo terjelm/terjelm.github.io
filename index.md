@@ -15,12 +15,11 @@
 - [Khrono](https://khrono.no/)
 
 ## Internasjonale nyheter
-[BBC](https://www.bbc.com/news)
-[The Guardian](https://www.theguardian.com/international)
-[CNN](https://edition.cnn.com/)
-[Al Jazeera](https://www.aljazeera.com/)
+- [BBC](https://www.bbc.com/news)
+- [The Guardian](https://www.theguardian.com/international)
+- [CNN](https://edition.cnn.com/)
+- [Al Jazeera](https://www.aljazeera.com/)
 
 ## Annet
 
-[Nordnorsk debatt](https://www.nordnorskdebatt.no/)
-
+- [Nordnorsk debatt](https://www.nordnorskdebatt.no/)
